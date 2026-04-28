@@ -1,0 +1,38 @@
+[
+  {
+    "product_name": "Oreo Biscuits",
+    "product_found": true,
+    "available": true,
+    "available_quantity": 8
+  },
+  {
+    "product_name": "Dairymilk Chocolate",
+    "product_found": true,
+    "available": true,
+    "available_quantity": 4
+  },
+  {
+    "product_name": "Maggi Noodles",
+    "product_found": true,
+    "available": true,
+    "available_quantity": 5
+  },
+  {
+    "product_name": "Basmati Rice 1kg Pack",
+    "product_found": true,
+    "available": true,
+    "available_quantity": 7
+  },
+  {
+    "product_name": "Egg",
+    "product_found": true,
+    "available": false,
+    "available_quantity": 0
+  },
+  {
+    "product_name": "Onion",
+    "product_found": true,
+    "available": false,
+    "available_quantity": 0
+  }
+]
