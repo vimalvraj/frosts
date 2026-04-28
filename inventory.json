@@ -48,8 +48,8 @@
     "product_name": "Coca-Cola 500ml",
     "sku": "COKE001",
     "product_found": true,
-    "available": false,
-    "available_quantity": 0,
+    "available": true,
+    "available_quantity": 60,
     "unit": "pcs",
     "unit_price": 2.00
   },
