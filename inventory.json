@@ -6,7 +6,7 @@
     "available": true,
     "available_quantity": 120,
     "unit": "pcs",
-    "unit_price": 2.50
+    "unit_price": 2.50
   },
   {
     "product_name": "Lays Potato Chips",
@@ -15,7 +15,7 @@
     "available": false,
     "available_quantity": 0,
     "unit": "pcs",
-    "unit_price": 3.00
+    "unit_price": 3.00
   },
   {
     "product_name": "Oreo Biscuits",
@@ -24,7 +24,7 @@
     "available": true,
     "available_quantity": 80,
     "unit": "pcs",
-    "unit_price": 1.50
+    "unit_price": 1.50
   },
   {
     "product_name": "Kelloggs Chocos",
@@ -33,7 +33,7 @@
     "available": false,
     "available_quantity": 0,
     "unit": "pcs",
-    "unit_price": 6.00
+    "unit_price": 6.00
   },
   {
     "product_name": "Pringles Chips",
@@ -42,7 +42,7 @@
     "available": true,
     "available_quantity": 60,
     "unit": "pcs",
-    "unit_price": 4.00
+    "unit_price": 4.00
   },
   {
     "product_name": "Coca-Cola 500ml",
@@ -51,7 +51,7 @@
     "available": false,
     "available_quantity": 0,
     "unit": "pcs",
-    "unit_price": 2.00
+    "unit_price": 2.00
   },
   {
     "product_name": "Pepsi 500ml",
@@ -60,7 +60,7 @@
     "available": true,
     "available_quantity": 100,
     "unit": "pcs",
-    "unit_price": 1.80
+    "unit_price": 1.80
   },
   {
     "product_name": "Sprite 500ml",
@@ -69,7 +69,7 @@
     "available": false,
     "available_quantity": 0,
     "unit": "pcs",
-    "unit_price": 1.80
+    "unit_price": 1.80
   },
   {
     "product_name": "Red Bull Energy Drink",
@@ -78,7 +78,7 @@
     "available": true,
     "available_quantity": 40,
     "unit": "pcs",
-    "unit_price": 3.50
+    "unit_price": 3.50
   },
   {
     "product_name": "Nescafé Coffee",
@@ -87,6 +87,6 @@
     "available": false,
     "available_quantity": 0,
     "unit": "pcs",
-    "unit_price": 5.00
+    "unit_price": 5.00
   }
 ]
