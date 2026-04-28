@@ -39,8 +39,8 @@
     "product_name": "Pringles Chips",
     "sku": "PRINGLES001",
     "product_found": true,
-    "available": true,
-    "available_quantity": 60,
+    "available": false,
+    "available_quantity": 0,
     "unit": "pcs",
     "unit_price": 4.00
   },
@@ -72,11 +72,11 @@
     "unit_price": 1.80
   },
   {
-    "product_name": "Red Bull Energy Drink",
+    "product_name": "Red Bull",
     "sku": "REDBULL001",
     "product_found": true,
-    "available": true,
-    "available_quantity": 40,
+    "available": false,
+    "available_quantity": 0,
     "unit": "pcs",
     "unit_price": 3.50
   },
@@ -84,8 +84,8 @@
     "product_name": "Nescafé Coffee",
     "sku": "NESCAFE001",
     "product_found": true,
-    "available": false,
-    "available_quantity": 0,
+    "available": true,
+    "available_quantity": 50,
     "unit": "pcs",
     "unit_price": 5.00
   }
