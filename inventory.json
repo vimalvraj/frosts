@@ -1,38 +1,92 @@
 [
   {
-    "product_name": "Oreo Biscuits",
-    "product_found": true,
-    "available": true,
-    "available_quantity": 8
-  },
-  {
-    "product_name": "Dairymilk Chocolate",
-    "product_found": true,
-    "available": true,
-    "available_quantity": 4
-  },
-  {
     "product_name": "Maggi Noodles",
+    "sku": "MAGGI001",
     "product_found": true,
     "available": true,
-    "available_quantity": 5
+    "available_quantity": 120,
+    "unit": "pcs",
+    "unit_price": 2.50
   },
   {
-    "product_name": "Basmati Rice 1kg Pack",
+    "product_name": "Lays Potato Chips",
+    "sku": "LAYS001",
+    "product_found": true,
+    "available": false,
+    "available_quantity": 0,
+    "unit": "pcs",
+    "unit_price": 3.00
+  },
+  {
+    "product_name": "Oreo Biscuits",
+    "sku": "OREO001",
     "product_found": true,
     "available": true,
-    "available_quantity": 7
+    "available_quantity": 80,
+    "unit": "pcs",
+    "unit_price": 1.50
   },
   {
-    "product_name": "Egg",
+    "product_name": "Kelloggs Chocos",
+    "sku": "KELLOGG001",
     "product_found": true,
     "available": false,
-    "available_quantity": 0
+    "available_quantity": 0,
+    "unit": "pcs",
+    "unit_price": 6.00
   },
   {
-    "product_name": "Onion",
+    "product_name": "Pringles Chips",
+    "sku": "PRINGLES001",
+    "product_found": true,
+    "available": true,
+    "available_quantity": 60,
+    "unit": "pcs",
+    "unit_price": 4.00
+  },
+  {
+    "product_name": "Coca-Cola 500ml",
+    "sku": "COKE001",
     "product_found": true,
     "available": false,
-    "available_quantity": 0
+    "available_quantity": 0,
+    "unit": "pcs",
+    "unit_price": 2.00
+  },
+  {
+    "product_name": "Pepsi 500ml",
+    "sku": "PEPSI001",
+    "product_found": true,
+    "available": true,
+    "available_quantity": 100,
+    "unit": "pcs",
+    "unit_price": 1.80
+  },
+  {
+    "product_name": "Sprite 500ml",
+    "sku": "SPRITE001",
+    "product_found": true,
+    "available": false,
+    "available_quantity": 0,
+    "unit": "pcs",
+    "unit_price": 1.80
+  },
+  {
+    "product_name": "Red Bull Energy Drink",
+    "sku": "REDBULL001",
+    "product_found": true,
+    "available": true,
+    "available_quantity": 40,
+    "unit": "pcs",
+    "unit_price": 3.50
+  },
+  {
+    "product_name": "Nescafé Coffee",
+    "sku": "NESCAFE001",
+    "product_found": true,
+    "available": false,
+    "available_quantity": 0,
+    "unit": "pcs",
+    "unit_price": 5.00
   }
 ]
