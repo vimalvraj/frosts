@@ -1,6 +1,6 @@
 [
   {
-    "product_name": "Maggi Noodles",
+    "product_name": "Maggi Noodles (70g)",
     "sku": "MAGGI001",
     "product_found": true,
     "available": true,
@@ -9,13 +9,13 @@
     "unit_price": 2.50
   },
   {
-    "product_name": "Lays Potato Chips",
-    "sku": "LAYS001",
+    "product_name": "Maggi Noodles (420g)",
+    "sku": "MAGGI002",
     "product_found": true,
     "available": false,
     "available_quantity": 0,
     "unit": "pcs",
-    "unit_price": 3.00
+    "unit_price": 5.00
   },
   {
     "product_name": "Oreo Biscuits",
@@ -27,7 +27,7 @@
     "unit_price": 1.50
   },
   {
-    "product_name": "Kelloggs Chocos",
+    "product_name": "Kellogg's Chocos",
     "sku": "KELLOGG001",
     "product_found": true,
     "available": false,
@@ -36,7 +36,7 @@
     "unit_price": 6.00
   },
   {
-    "product_name": "Pringles Chips",
+    "product_name": "Pringles Peri Peri",
     "sku": "PRINGLES001",
     "product_found": true,
     "available": false,
@@ -45,13 +45,13 @@
     "unit_price": 4.00
   },
   {
-    "product_name": "Coca-Cola 500ml",
-    "sku": "COKE001",
+    "product_name": "Pringles Hot & Spicy",
+    "sku": "PRINGLES002",
     "product_found": true,
     "available": true,
     "available_quantity": 60,
     "unit": "pcs",
-    "unit_price": 2.00
+    "unit_price": 4.00
   },
   {
     "product_name": "Pepsi 500ml",
@@ -81,11 +81,101 @@
     "unit_price": 3.50
   },
   {
-    "product_name": "Nescafé Coffee",
+    "product_name": "Nescafé Choco Latte",
     "sku": "NESCAFE001",
     "product_found": true,
     "available": true,
     "available_quantity": 50,
+    "unit": "pcs",
+    "unit_price": 5.00
+  },
+  {
+    "product_name": "Maltesers (37g)",
+    "sku": "MALTES001",
+    "product_found": true,
+    "available": true,
+    "available_quantity": 120,
+    "unit": "pcs",
+    "unit_price": 1.50
+  },
+  {
+    "product_name": "Maltesers (465g)",
+    "sku": "MALTES002",
+    "product_found": true,
+    "available": false,
+    "available_quantity": 0,
+    "unit": "pcs",
+    "unit_price": 5.00
+  },
+  {
+    "product_name": "12x Snickers Minis",
+    "sku": "SNICO001",
+    "product_found": true,
+    "available": true,
+    "available_quantity": 80,
+    "unit": "pcs",
+    "unit_price": 5.00
+  },
+  {
+    "product_name": "Snickers 45g Bar",
+    "sku": "SNICO002",
+    "product_found": true,
+    "available": true,
+    "available_quantity": 40,
+    "unit": "pcs",
+    "unit_price": 1.00
+  },
+  {
+    "product_name": "Pokka Green Tea",
+    "sku": "POKKA001",
+    "product_found": true,
+    "available": false,
+    "available_quantity": 0,
+    "unit": "pcs",
+    "unit_price": 4.00
+  },
+  {
+    "product_name": "Pokka Peach Tea",
+    "sku": "POKKA002",
+    "product_found": true,
+    "available": true,
+    "available_quantity": 60,
+    "unit": "pcs",
+    "unit_price": 4.00
+  },
+  {
+    "product_name": "Pepsi 300ml",
+    "sku": "PEPSI002",
+    "product_found": true,
+    "available": false,
+    "available_quantity": 0,
+    "unit": "pcs",
+    "unit_price": 1.00
+  },
+  {
+    "product_name": "Sprite 300ml",
+    "sku": "SPRITE002",
+    "product_found": true,
+    "available": true,
+    "available_quantity": 100,
+    "unit": "pcs",
+    "unit_price": 1.00
+  },
+  {
+    "product_name": "Red Bull Total Zero",
+    "sku": "REDBULL002",
+    "product_found": true,
+    "available": true,
+    "available_quantity": 30,
+    "unit": "pcs",
+    "unit_price": 3.60
+  },
+  {
+    "product_name": "Nescafé Original",
+    "sku": "NESCAFE002",
+    "product_found": true,
+    "available": false,
+    "available_quantity": 0,
     "unit": "pcs",
     "unit_price": 5.00
   }
