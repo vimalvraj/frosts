@@ -6,7 +6,13 @@
     "available": true,
     "available_quantity": 120,
     "unit": "pcs",
-    "unit_price": 2.50
+    "unit_price": 2.50,
+    "keywords": {
+      "en": ["maggi", "maggi noodles", "instant noodles", "mee maggi", "maggi 70g", "small maggi", "noodles", "maggi packet"],
+      "ms": ["maggi", "mi segera", "maggi kecil", "maggi 70g", "maggi mi", "mi maggi", "mi segera maggi"],
+      "zh": ["美极面", "即食面", "方便面", "小包美极", "美极70克", "美极快熟面", "快熟面"],
+      "ta": ["மேகி நூடுல்ஸ்", "இன்ஸ்டன்ட் நூடுல்ஸ்", "மேகி 70கி", "சிறிய மேகி", "மேகி பாக்கெட்"]
+    }
   },
   {
     "product_name": "Maggi Noodles (420g)",
@@ -15,7 +21,13 @@
     "available": false,
     "available_quantity": 0,
     "unit": "pcs",
-    "unit_price": 5.00
+    "unit_price": 5.00,
+    "keywords": {
+      "en": ["maggi 420g", "big maggi", "maggi family pack", "maggi large", "maggi bundle", "noodles family"],
+      "ms": ["maggi besar", "maggi 420g", "maggi pack besar", "maggi keluarga", "mi segera besar"],
+      "zh": ["大包美极", "美极420克", "美极家庭装", "大包方便面", "美极大包"],
+      "ta": ["பெரிய மேகி", "மேகி 420கி", "மேகி குடும்ப பேக்", "பெரிய மேகி பேக்"]
+    }
   },
   {
     "product_name": "Oreo Biscuits",
@@ -24,7 +36,13 @@
     "available": true,
     "available_quantity": 80,
     "unit": "pcs",
-    "unit_price": 1.50
+    "unit_price": 1.50,
+    "keywords": {
+      "en": ["oreo", "oreo biscuits", "oreo cookies", "chocolate biscuits", "sandwich cookies", "oreo snack"],
+      "ms": ["oreo", "biskut oreo", "kuki oreo", "biskut coklat", "oreo biskut"],
+      "zh": ["奥利奥", "奥利奥饼干", "奥利奥曲奇", "夹心饼干", "巧克力饼干"],
+      "ta": ["ஓரியோ", "ஓரியோ பிஸ்கட்", "ஓரியோ கூக்கீஸ்", "சாக்லேட் பிஸ்கட்", "ஓரியோ சிற்றுண்டி"]
+    }
   },
   {
     "product_name": "Kellogg's Chocos",
@@ -33,7 +51,13 @@
     "available": false,
     "available_quantity": 0,
     "unit": "pcs",
-    "unit_price": 6.00
+    "unit_price": 6.00,
+    "keywords": {
+      "en": ["chocos", "kelloggs", "kellogg chocos", "chocolate cereal", "breakfast cereal", "chocos cereal"],
+      "ms": ["chocos", "kellogg's chocos", "bijirin coklat", "sarapan bijirin", "kellogg's"],
+      "zh": ["家乐氏巧克力麦片", "巧克力麦片", "家乐氏", "早餐麦片", "朱古力麦片"],
+      "ta": ["கெல்லாக்ஸ் சோக்கோஸ்", "சோக்கோஸ் தானியம்", "சாக்லேட் தானியம்", "காலை உணவு தானியம்"]
+    }
   },
   {
     "product_name": "Pringles Peri Peri",
@@ -42,7 +66,13 @@
     "available": false,
     "available_quantity": 0,
     "unit": "pcs",
-    "unit_price": 4.00
+    "unit_price": 4.00,
+    "keywords": {
+      "en": ["pringles peri peri", "pringles", "peri peri chips", "pringles spicy", "tube chips", "potato crisps"],
+      "ms": ["pringles peri peri", "pringles", "kerepek pringles", "cip peri peri", "pringles pedas"],
+      "zh": ["品客香辣味", "品客peri peri", "品客薯片", "品客辣味", "香辣薯片"],
+      "ta": ["பிரிங்கிள்ஸ் பேரி பேரி", "பிரிங்கிள்ஸ்", "பேரி பேரி சிப்ஸ்", "காரமான சிப்ஸ்"]
+    }
   },
   {
     "product_name": "Pringles Hot & Spicy",
@@ -51,7 +81,13 @@
     "available": true,
     "available_quantity": 60,
     "unit": "pcs",
-    "unit_price": 4.00
+    "unit_price": 4.00,
+    "keywords": {
+      "en": ["pringles hot", "pringles spicy", "hot spicy pringles", "pringles hot spicy", "spicy chips", "pringles red"],
+      "ms": ["pringles pedas", "pringles hot spicy", "cip pedas", "pringles hot dan pedas", "kerepek pringles pedas"],
+      "zh": ["品客香辣薯片", "品客辣味", "辣薯片", "品客热辣", "品客红罐"],
+      "ta": ["பிரிங்கிள்ஸ் காரம்", "காரமான பிரிங்கிள்ஸ்", "ஹாட் அண்ட் ஸ்பைஸி சிப்ஸ்", "சூடான சிப்ஸ்"]
+    }
   },
   {
     "product_name": "Pepsi 500ml",
@@ -60,7 +96,13 @@
     "available": true,
     "available_quantity": 100,
     "unit": "pcs",
-    "unit_price": 1.80
+    "unit_price": 1.80,
+    "keywords": {
+      "en": ["pepsi", "pepsi 500ml", "pepsi big", "pepsi bottle", "cola", "pepsi drink", "pepsi 500"],
+      "ms": ["pepsi", "pepsi 500ml", "minuman pepsi", "pepsi botol", "cola pepsi"],
+      "zh": ["百事可乐500ml", "百事", "大瓶百事", "可乐", "百事饮料"],
+      "ta": ["பெப்சி 500ml", "பெப்சி", "பெரிய பெப்சி", "கோலா", "பெப்சி பாட்டில்"]
+    }
   },
   {
     "product_name": "Sprite 500ml",
@@ -69,7 +111,13 @@
     "available": false,
     "available_quantity": 0,
     "unit": "pcs",
-    "unit_price": 1.80
+    "unit_price": 1.80,
+    "keywords": {
+      "en": ["sprite", "sprite 500ml", "sprite bottle", "sprite big", "lemon lime drink", "green soda"],
+      "ms": ["sprite", "sprite 500ml", "minuman sprite", "sprite botol besar", "minuman limau"],
+      "zh": ["雪碧500ml", "雪碧", "大瓶雪碧", "柠檬汽水", "绿瓶汽水"],
+      "ta": ["ஸ்பிரைட் 500ml", "ஸ்பிரைட்", "பெரிய ஸ்பிரைட்", "எலுமிச்சை சோடா", "ஸ்பிரைட் பாட்டில்"]
+    }
   },
   {
     "product_name": "Red Bull",
@@ -78,7 +126,13 @@
     "available": false,
     "available_quantity": 0,
     "unit": "pcs",
-    "unit_price": 3.50
+    "unit_price": 3.50,
+    "keywords": {
+      "en": ["red bull", "redbull", "energy drink", "red bull can", "bull drink"],
+      "ms": ["red bull", "minuman tenaga", "redbull", "minuman bertenaga", "red bull tin"],
+      "zh": ["红牛", "能量饮料", "红牛罐", "提神饮料", "红牛饮品"],
+      "ta": ["ரெட் புல்", "எனர்ஜி டிரிங்க்", "சக்தி பானம்", "ரெட்புல் கேன்"]
+    }
   },
   {
     "product_name": "Nescafé Choco Latte",
@@ -87,7 +141,13 @@
     "available": true,
     "available_quantity": 50,
     "unit": "pcs",
-    "unit_price": 5.00
+    "unit_price": 5.00,
+    "keywords": {
+      "en": ["nescafe choco latte", "nescafe chocolate", "choco latte", "chocolate coffee", "nescafe mocha", "mocha coffee"],
+      "ms": ["nescafe choco latte", "kopi coklat nescafe", "choco latte", "kopi coklat", "nescafe coklat"],
+      "zh": ["雀巢巧克力拿铁", "巧克力咖啡", "雀巢choco latte", "朱古力拿铁", "雀巢巧克力"],
+      "ta": ["நெஸ்கஃபே சோக்கோ லட்டே", "சாக்லேட் காபி", "சோக்கோ லட்டே", "நெஸ்கஃபே சாக்லேட்", "மோக்கா காபி"]
+    }
   },
   {
     "product_name": "Maltesers (37g)",
@@ -96,7 +156,13 @@
     "available": true,
     "available_quantity": 120,
     "unit": "pcs",
-    "unit_price": 1.50
+    "unit_price": 1.50,
+    "keywords": {
+      "en": ["maltesers", "maltesers small", "maltesers 37g", "malt chocolate", "chocolate balls", "malteser"],
+      "ms": ["maltesers", "maltesers kecil", "bola coklat", "maltesers 37g", "coklat bola"],
+      "zh": ["麦提莎", "麦提莎小包", "麦丽素", "巧克力球", "麦提莎37克"],
+      "ta": ["மால்டீசர்ஸ்", "சிறிய மால்டீசர்ஸ்", "மால்ட் சாக்லேட்", "சாக்லேட் பால்ஸ்", "37கி மால்டீசர்ஸ்"]
+    }
   },
   {
     "product_name": "Maltesers (465g)",
@@ -105,7 +171,13 @@
     "available": false,
     "available_quantity": 0,
     "unit": "pcs",
-    "unit_price": 5.00
+    "unit_price": 5.00,
+    "keywords": {
+      "en": ["maltesers big", "maltesers 465g", "maltesers large", "maltesers tub", "big maltesers", "bulk maltesers"],
+      "ms": ["maltesers besar", "maltesers 465g", "baldi coklat", "maltesers tin besar"],
+      "zh": ["大包麦提莎", "麦提莎465克", "麦提莎大桶", "大桶巧克力球"],
+      "ta": ["பெரிய மால்டீசர்ஸ்", "மால்டீசர்ஸ் 465கி", "மால்டீசர்ஸ் பெரிய பேக்"]
+    }
   },
   {
     "product_name": "12x Snickers Minis",
@@ -114,7 +186,13 @@
     "available": true,
     "available_quantity": 80,
     "unit": "pcs",
-    "unit_price": 5.00
+    "unit_price": 5.00,
+    "keywords": {
+      "en": ["snickers minis", "mini snickers", "snickers pack", "snickers 12", "snickers multipack", "snickers small"],
+      "ms": ["snickers mini", "snickers kecil", "snickers 12 biji", "pack snickers", "coklat snickers kecil"],
+      "zh": ["士力架迷你装", "迷你士力架", "小士力架", "士力架12粒", "士力架多包装"],
+      "ta": ["ஸ்னிக்கர்ஸ் மினிஸ்", "மினி ஸ்னிக்கர்ஸ்", "ஸ்னிக்கர்ஸ் பேக்", "12 ஸ்னிக்கர்ஸ்", "சிறிய ஸ்னிக்கர்ஸ்"]
+    }
   },
   {
     "product_name": "Snickers 45g Bar",
@@ -123,7 +201,13 @@
     "available": true,
     "available_quantity": 40,
     "unit": "pcs",
-    "unit_price": 1.00
+    "unit_price": 1.00,
+    "keywords": {
+      "en": ["snickers bar", "snickers 45g", "snickers single", "snickers chocolate", "snickers candy bar"],
+      "ms": ["snickers bar", "snickers 45g", "coklat snickers", "snickers sebatang"],
+      "zh": ["士力架棒", "士力架45克", "士力架巧克力棒", "单支士力架"],
+      "ta": ["ஸ்னிக்கர்ஸ் பார்", "ஸ்னிக்கர்ஸ் 45கி", "ஒற்றை ஸ்னிக்கர்ஸ்", "ஸ்னிக்கர்ஸ் சாக்லேட்"]
+    }
   },
   {
     "product_name": "Pokka Green Tea",
@@ -132,7 +216,13 @@
     "available": false,
     "available_quantity": 0,
     "unit": "pcs",
-    "unit_price": 4.00
+    "unit_price": 4.00,
+    "keywords": {
+      "en": ["pokka green tea", "green tea", "pokka tea", "bottled green tea", "pokka drink"],
+      "ms": ["pokka teh hijau", "teh hijau pokka", "teh hijau botol", "minuman teh hijau"],
+      "zh": ["宝矿力绿茶", "绿茶", "宝矿绿茶", "瓶装绿茶", "绿茶饮料"],
+      "ta": ["பொக்கா கிரீன் டீ", "பச்சை தேயிலை", "பொக்கா டீ", "கிரீன் டீ", "பொக்கா பானம்"]
+    }
   },
   {
     "product_name": "Pokka Peach Tea",
@@ -141,7 +231,13 @@
     "available": true,
     "available_quantity": 60,
     "unit": "pcs",
-    "unit_price": 4.00
+    "unit_price": 4.00,
+    "keywords": {
+      "en": ["pokka peach", "peach tea", "pokka peach tea", "peach drink", "pokka tea", "fruity tea"],
+      "ms": ["pokka teh pic", "teh pic", "minuman pic pokka", "teh buah pokka"],
+      "zh": ["宝矿蜜桃茶", "桃子茶", "蜜桃茶", "宝矿水蜜桃", "水蜜桃饮料"],
+      "ta": ["பொக்கா பீச் டீ", "பீச் டீ", "பொக்கா பழ பானம்", "ஆடுதோல் பழ டீ"]
+    }
   },
   {
     "product_name": "Pepsi 300ml",
@@ -150,7 +246,13 @@
     "available": false,
     "available_quantity": 0,
     "unit": "pcs",
-    "unit_price": 1.00
+    "unit_price": 1.00,
+    "keywords": {
+      "en": ["pepsi small", "pepsi 300ml", "pepsi mini", "small pepsi", "pepsi can", "mini cola"],
+      "ms": ["pepsi kecil", "pepsi 300ml", "pepsi tin", "pepsi mini", "minuman pepsi kecil"],
+      "zh": ["小瓶百事", "百事300ml", "百事迷你", "小百事可乐", "迷你可乐"],
+      "ta": ["சிறிய பெப்சி", "பெப்சி 300ml", "மினி பெப்சி", "பெப்சி கேன்", "சிறிய கோலா"]
+    }
   },
   {
     "product_name": "Sprite 300ml",
@@ -159,7 +261,13 @@
     "available": true,
     "available_quantity": 100,
     "unit": "pcs",
-    "unit_price": 1.00
+    "unit_price": 1.00,
+    "keywords": {
+      "en": ["sprite small", "sprite 300ml", "sprite mini", "small sprite", "sprite can"],
+      "ms": ["sprite kecil", "sprite 300ml", "sprite tin", "sprite mini", "minuman sprite kecil"],
+      "zh": ["小瓶雪碧", "雪碧300ml", "迷你雪碧", "小雪碧"],
+      "ta": ["சிறிய ஸ்பிரைட்", "ஸ்பிரைட் 300ml", "மினி ஸ்பிரைட்", "ஸ்பிரைட் கேன்"]
+    }
   },
   {
     "product_name": "Red Bull Total Zero",
@@ -168,7 +276,13 @@
     "available": true,
     "available_quantity": 30,
     "unit": "pcs",
-    "unit_price": 3.60
+    "unit_price": 3.60,
+    "keywords": {
+      "en": ["red bull zero", "total zero", "sugar free red bull", "zero calorie red bull", "redbull zero", "diet energy drink"],
+      "ms": ["red bull zero", "redbull tanpa gula", "minuman tenaga zero", "red bull total zero"],
+      "zh": ["红牛无糖", "红牛零卡", "红牛total zero", "无糖能量饮料", "零卡路里红牛"],
+      "ta": ["ரெட் புல் ஜீரோ", "சர்க்கரை இல்லாத ரெட் புல்", "டோட்டல் ஜீரோ", "சீரோ கலோரி என்ர்ஜி"]
+    }
   },
   {
     "product_name": "Nescafé Original",
@@ -177,6 +291,12 @@
     "available": false,
     "available_quantity": 0,
     "unit": "pcs",
-    "unit_price": 5.00
+    "unit_price": 5.00,
+    "keywords": {
+      "en": ["nescafe original", "nescafe coffee", "instant coffee", "3 in 1 coffee", "nescafe classic", "white coffee"],
+      "ms": ["nescafe original", "kopi nescafe", "kopi segera", "nescafe klasik", "kopi 3 in 1"],
+      "zh": ["雀巢原味咖啡", "雀巢咖啡", "速溶咖啡", "原味雀巢", "三合一咖啡"],
+      "ta": ["நெஸ்கஃபே ஒரிஜினல்", "நெஸ்கஃபே காபி", "இன்ஸ்டன்ட் காபி", "3 இன் 1 காபி", "கிளாசிக் காபி"]
+    }
   }
 ]
