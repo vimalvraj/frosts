@@ -4,11 +4,12 @@
     "sku": "MAGGI001",
     "product_found": true,
     "available": true,
-    "available_quantity": 120,
-    "unit": "pcs",
+    "available_quantity": 485,
+    "unit_per_carton": 24,
+    "unit": "Carton & Pcs",
     "unit_price": 2.50,
     "keywords": {
-      "en": ["maggi", "maggi noodles", "instant noodles", "mee maggi", "maggi 70g", "small maggi", "noodles", "maggi packet"],
+      "en": ["maggi", "maggi noodles", "instant noodles", "mee maggi", "maggi 70g", "maggi 70 gram", "small maggi", "noodles", "maggi packet"],
       "ms": ["maggi", "mi segera", "maggi kecil", "maggi 70g", "maggi mi", "mi maggi", "mi segera maggi"],
       "zh": ["美极面", "即食面", "方便面", "小包美极", "美极70克", "美极快熟面", "快熟面"],
       "ta": ["மேகி நூடுல்ஸ்", "இன்ஸ்டன்ட் நூடுல்ஸ்", "மேகி 70கி", "சிறிய மேகி", "மேகி பாக்கெட்"]
@@ -20,6 +21,7 @@
     "product_found": true,
     "available": false,
     "available_quantity": 0,
+    "unit_per_carton": 24,
     "unit": "pcs",
     "unit_price": 5.00,
     "keywords": {
@@ -35,6 +37,7 @@
     "product_found": true,
     "available": true,
     "available_quantity": 80,
+    "unit_per_carton": 24,
     "unit": "pcs",
     "unit_price": 1.50,
     "keywords": {
@@ -50,6 +53,7 @@
     "product_found": true,
     "available": false,
     "available_quantity": 0,
+    "unit_per_carton": 24,
     "unit": "pcs",
     "unit_price": 6.00,
     "keywords": {
@@ -65,6 +69,7 @@
     "product_found": true,
     "available": false,
     "available_quantity": 0,
+    "unit_per_carton": 24,
     "unit": "pcs",
     "unit_price": 4.00,
     "keywords": {
@@ -80,6 +85,7 @@
     "product_found": true,
     "available": true,
     "available_quantity": 60,
+    "unit_per_carton": 24,
     "unit": "pcs",
     "unit_price": 4.00,
     "keywords": {
@@ -95,6 +101,7 @@
     "product_found": true,
     "available": true,
     "available_quantity": 100,
+    "unit_per_carton": 24,
     "unit": "pcs",
     "unit_price": 1.80,
     "keywords": {
@@ -110,6 +117,7 @@
     "product_found": true,
     "available": false,
     "available_quantity": 0,
+    "unit_per_carton": 24,
     "unit": "pcs",
     "unit_price": 1.80,
     "keywords": {
@@ -125,6 +133,7 @@
     "product_found": true,
     "available": false,
     "available_quantity": 0,
+    "unit_per_carton": 24,
     "unit": "pcs",
     "unit_price": 3.50,
     "keywords": {
@@ -140,6 +149,7 @@
     "product_found": true,
     "available": true,
     "available_quantity": 50,
+    "unit_per_carton": 24,
     "unit": "pcs",
     "unit_price": 5.00,
     "keywords": {
@@ -155,6 +165,7 @@
     "product_found": true,
     "available": true,
     "available_quantity": 120,
+    "unit_per_carton": 24,
     "unit": "pcs",
     "unit_price": 1.50,
     "keywords": {
@@ -170,6 +181,7 @@
     "product_found": true,
     "available": false,
     "available_quantity": 0,
+    "unit_per_carton": 24,
     "unit": "pcs",
     "unit_price": 5.00,
     "keywords": {
@@ -185,6 +197,7 @@
     "product_found": true,
     "available": true,
     "available_quantity": 80,
+    "unit_per_carton": 24,
     "unit": "pcs",
     "unit_price": 5.00,
     "keywords": {
@@ -200,6 +213,7 @@
     "product_found": true,
     "available": true,
     "available_quantity": 40,
+    "unit_per_carton": 24,
     "unit": "pcs",
     "unit_price": 1.00,
     "keywords": {
@@ -215,6 +229,7 @@
     "product_found": true,
     "available": false,
     "available_quantity": 0,
+    "unit_per_carton": 24,
     "unit": "pcs",
     "unit_price": 4.00,
     "keywords": {
@@ -230,6 +245,7 @@
     "product_found": true,
     "available": true,
     "available_quantity": 60,
+    "unit_per_carton": 24,
     "unit": "pcs",
     "unit_price": 4.00,
     "keywords": {
@@ -245,6 +261,7 @@
     "product_found": true,
     "available": false,
     "available_quantity": 0,
+    "unit_per_carton": 24,
     "unit": "pcs",
     "unit_price": 1.00,
     "keywords": {
@@ -260,6 +277,7 @@
     "product_found": true,
     "available": true,
     "available_quantity": 100,
+    "unit_per_carton": 24,
     "unit": "pcs",
     "unit_price": 1.00,
     "keywords": {
@@ -275,6 +293,7 @@
     "product_found": true,
     "available": true,
     "available_quantity": 30,
+    "unit_per_carton": 24,
     "unit": "pcs",
     "unit_price": 3.60,
     "keywords": {
@@ -290,6 +309,7 @@
     "product_found": true,
     "available": false,
     "available_quantity": 0,
+    "unit_per_carton": 24,
     "unit": "pcs",
     "unit_price": 5.00,
     "keywords": {
