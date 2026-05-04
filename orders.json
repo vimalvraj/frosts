@@ -1,0 +1,19 @@
+[
+  {
+    "product_name": "Maggi Noodles (70g)",
+    "sku": "MAGGI001",
+    "product_found": true,
+    "available": true,
+    "available_quantity": 485,
+    "available_quantity_in": "Pcs",
+    "unit_per_carton": 24,
+    "unit": "Carton",
+    "unit_price": 2.50,
+    "keywords": {
+      "en": ["maggi", "maggi noodles", "instant noodles", "mee maggi", "maggi 70g", "maggi 70 gram", "small maggi", "noodles", "maggi packet"],
+      "ms": ["maggi", "mi segera", "maggi kecil", "maggi 70g", "maggi mi", "mi maggi", "mi segera maggi"],
+      "zh": ["美极面", "即食面", "方便面", "小包美极", "美极70克", "美极快熟面", "快熟面"],
+      "ta": ["மேகி நூடுல்ஸ்", "இன்ஸ்டன்ட் நூடுல்ஸ்", "மேகி 70கி", "சிறிய மேகி", "மேகி பாக்கெட்"]
+    }
+  }
+]
